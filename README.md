@@ -37,7 +37,7 @@ Fun note: The Overlord Engine we were provided with came with some of the PhysX 
 
 ## Resources
 - "3D Game Programming with DirectX11" by Frank D. Luna
-- Simplex noise library for HLSL: [Unity Forum](https://forum.unity.com/threads/2d-3d-4d-optimised-perlin-noise-cg-hlsl-library-cginc.218372/)
+- Simplex noise library for HLSL: [Github](https://gist.github.com/fadookie/25adf86ae7e2753d717c)
 - Depth to viewSpace: [mynameismjp.wordpress.com](https://mynameismjp.wordpress.com/2009/03/10/reconstructing-position-from-depth/)
 - Coding Adventure: [Procedural Moons and Planets: Youtube](https://www.youtube.com/watch?v=lctXaT9pxA0)
 - Triplanar mapping & normal map: [bgolus.medium.com](https://bgolus.medium.com/normal-mapping-for-a-triplanar-shader-10bf39dca05a)
