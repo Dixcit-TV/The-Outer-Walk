@@ -1,7 +1,7 @@
 # The-Outer-Walk
 3D DirectX11 based game built around procedural planet generation.
 
-Unfortunately I cannot share the whole project as the engine it was built on (Overlord Engine) is a Digital Art and Entertainment owned engine.
+**NOTE:** Unfortunately I cannot share the whole project as the engine it was built on (Overlord Engine) is a Digital Art and Entertainment owned engine.
 Although I might be harder to follow the code flow, I am sharing my the sources that I personnally implemented.
 
 About the implementation of the project itself: 
